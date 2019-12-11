@@ -1,0 +1,166 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: beige;
+}
+.main{
+    width: 100%;
+    background-color:red;
+}
+.napvar{
+    background-color: rgb(67, 67, 145);
+    height:85px;
+    position: absolute;
+    width:100%;
+}
+.facebook h1{
+    padding-left: 80px;
+    color: white;
+    margin-top: 20px; 
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+.divbutton{
+    background-color: #1f1fe7;
+    margin-left:50%;
+    height: 25px; 
+    /* margin-top: 20px; */
+    color: white;
+    width: 15%;
+    font-size: 15px;
+}
+.secounddiv{
+    margin-left: 25%;
+    height:500px;
+    width: 50%;
+    margin-top: 3%;
+   
+}
+.inerediv1{
+    height:40px;
+    width:40px;
+}
+.inerhead1{
+    font-size: 28px;
+    color:black;
+    margin-left: 15%;
+    padding-top: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.inerhead2{
+    font-size: 29px;
+    color:rgb(94, 86, 86);
+    font-size: 25px;
+} 
+.input1{
+    
+    margin-left: 15%;
+    padding-top: 20px;
+}
+.input_box1{
+    height: 30px;
+    width: 35%;
+    border-radius: 3px;
+    border: 3px;
+    font-size: 20px;
+    color:rgb(153, 146, 146);
+}
+.input_box2{
+    height:30px;
+    width: 35%;
+    border-radius: 3px;
+    border: 3px;
+    font-size: 20px;
+    color:rgb(153, 146, 146);
+}
+
+.input2{
+    margin-top: 20px;
+    margin-left: 15%;
+}
+.input_box3{
+    height:30px;
+    width: 72%;
+    border-radius: 3px;
+    border: 3px;
+    font-size: 20px;
+    color:rgb(153, 146, 146);
+}
+
+.input_box4{
+    height:30px;
+    border-radius: 3px;
+    border: 3px;
+    width: 72%;
+    font-size: 20px;
+    color:rgb(153, 146, 146);
+}
+.selector1{
+    margin-left: 15%;
+    margin-top: 20px;
+    height: 60px;
+    margin-right: 24%;
+    /* background-color: brown; */
+}
+.selector1 h3{
+    color: rgb(44, 37, 37)
+}
+
+.selector1 select{
+    padding-top: 8px;
+    width:16%;
+}
+.selector1 img{
+    height: 25px;
+    width: 30px;
+
+}
+.sex{
+    margin-top: 20px;
+    height: 60px;
+    width: 90%;   
+}
+p{
+    margin-top: 60px;
+    margin-left: 15%;
+}
+.endbutton{
+    height: 80px;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 10px;
+    margin-right: 70%;
+}
+button{
+    height: 40px;
+    width:30%;
+   font-size: 20px;
+    margin-left: 15%;
+    border-radius: 5px;
+    border: 5px;
+    color: rgb(12, 15, 12);
+    background-color: green;   
+}
+.main_footer{
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.plus{
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+    margin-top: 10px;
+}
+hr{
+    width: 90%;
+}
+.divbutton:hover{
+    background-color:rgb(74, 74, 165);
+}
+button:hover{
+    background-color: rgb(60, 158, 60);
+}
